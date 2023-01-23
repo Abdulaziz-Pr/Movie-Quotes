@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5D0F599C-48DD-4F12-9D8A-F8D2A2825EF0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF7827A9-F89F-45EF-BB4A-D99DFD1BBB43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Quotes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F400226A-10E1-498F-9256-5C2FDAFB114B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Quotes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D62DEA14-7804-49DF-89E7-FFF3E7F48278"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Quotes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85A6979C-0E35-454C-B616-3107E693DA5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Quotes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "goToQuestionView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BE91C91-4A81-4D41-97F2-88824E89095D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Quotes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "goToQuestionView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "326FBA0C-6477-40E0-BC2D-D1B5C07FB26C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Quotes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E65AC99-85CF-40F0-AA7B-5EBC1C71D470"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "searchViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0E65AC99-85CF-40F0-AA7B-5EBC1C71D470 - ebcb3dfcdebdbed7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.allMovies.getter : Swift.Array&lt;Movie_Quotes.Movie&gt;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0E65AC99-85CF-40F0-AA7B-5EBC1C71D470 - 4d90ea5f063b92c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.allMovies.setter : Swift.Array&lt;Movie_Quotes.Movie&gt;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "0E65AC99-85CF-40F0-AA7B-5EBC1C71D470 - 47b56772a559dbd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.allMovies.modify : Swift.Array&lt;Movie_Quotes.Movie&gt;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0E65AC99-85CF-40F0-AA7B-5EBC1C71D470 - b8b7c063478f0cfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.allMovies.modify : Swift.Array&lt;Movie_Quotes.Movie&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0E65AC99-85CF-40F0-AA7B-5EBC1C71D470 - 8588f2decd3a2302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Movie_Quotes.searchViewController"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "0E65AC99-85CF-40F0-AA7B-5EBC1C71D470 - 3a9af89b4a6588da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Movie_Quotes.searchViewController&gt;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AAE0F27-BF90-4250-A53B-3DA3421586BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "searchViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0AAE0F27-BF90-4250-A53B-3DA3421586BE - d285ea603b66c86d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.textfield.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0AAE0F27-BF90-4250-A53B-3DA3421586BE - 34aa86c264e43c61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.textfield.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "0AAE0F27-BF90-4250-A53B-3DA3421586BE - 2e4f13e602026570"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.textfield.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0AAE0F27-BF90-4250-A53B-3DA3421586BE - b8a916fda0ead0d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.textfield.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "0AAE0F27-BF90-4250-A53B-3DA3421586BE - 8588f2decd3a21cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Movie_Quotes.searchViewController"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "0AAE0F27-BF90-4250-A53B-3DA3421586BE - 3a9af89b4a658a14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Quotes.searchViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Movie_Quotes.searchViewController&gt;"
+                  moduleName = "Movie Quotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedalsiraji/Downloads/Movie%20Quotes/searchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44B95F12-BF7B-41FA-AC31-39C3079DCFDE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Quotes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "goToQuestionView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
